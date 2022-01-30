@@ -1,5 +1,3 @@
---[[ Author: Isela --]]
-
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Kinlei/MaterialLua/master/Module.lua"))().Load({
     Title = "Giant Simulator  ―  M3dusa",
     Style = 1,
