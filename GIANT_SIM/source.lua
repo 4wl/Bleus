@@ -1,13 +1,13 @@
 --[[ Author: Isela --]]
 
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Kinlei/MaterialLua/master/Module.lua"))().Load({
-    Title = "Giant Simulator  ―  Bleus",
+    Title = "Giant Simulator  ―  M3dusa",
     Style = 1,
-    SizeX = 400,
-    SizeY = 400,
-    Theme = "Aqua",
+    SizeX = 500,
+    SizeY = 500,
+    Theme = "Purple",
     ColorOverrides = {
-        MainFrame = Color3.fromRGB(30, 30, 30)
+        MainFrame = Color3.fromRGB(50, 74, 21)
     }
 })
 
